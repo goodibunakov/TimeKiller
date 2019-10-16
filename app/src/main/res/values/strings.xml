@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TimeKiller</string>
+    <string name="your_score">Your score: %s</string>
+    <string name="time_left">Time left: %s</string>
+    <string name="click">Click!</string>
+
+    <string name="camonButton">OK</string>
+    <string name="again">Restart</string>
+    <string name="game_over">Times up!\nYour score was: %s</string>
+</resources>

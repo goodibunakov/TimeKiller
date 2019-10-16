@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Убивалка времени</string>
+    <string name="time_left">Время %s</string>
+    <string name="your_score">Убито %s</string>
+    <string name="click">Тыкай!</string>
+    <string name="camonButton">Понял</string>
+    <string name="again">Заново</string>
+    <string name="game_over">Ты убил время %s раз!</string>
+</resources>
