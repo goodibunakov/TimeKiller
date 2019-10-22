@@ -1,4 +1,4 @@
-package ru.goodibunakov.timekiller
+package ru.goodibunakov.timekiller.util
 
 import android.annotation.SuppressLint
 import android.content.Context
@@ -15,6 +15,7 @@ import android.widget.ImageView
 import android.widget.LinearLayout
 import android.widget.TextView
 import android.widget.Toast
+import ru.goodibunakov.timekiller.R
 
 class MyToast {
     @SuppressLint("InflateParams")

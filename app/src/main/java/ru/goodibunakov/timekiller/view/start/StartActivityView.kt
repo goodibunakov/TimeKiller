@@ -1,10 +1,10 @@
-package ru.goodibunakov.timekiller.view
+package ru.goodibunakov.timekiller.view.start
 
 import moxy.MvpView
 import moxy.viewstate.strategy.AddToEndStrategy
 import moxy.viewstate.strategy.StateStrategyType
 
-@StateStrategyType(value = AddToEndStrategy::class)
+@StateStrategyType(AddToEndStrategy::class)
 interface StartActivityView: MvpView {
-    fun buttonClicked()
+    fun startNewActivity()
 }
