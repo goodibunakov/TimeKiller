@@ -2,7 +2,6 @@ package ru.goodibunakov.timekiller.view.main
 
 import android.os.Bundle
 import android.os.CountDownTimer
-import android.util.Log
 import android.view.animation.AnimationUtils
 import android.widget.Toast
 import androidx.core.content.ContextCompat
